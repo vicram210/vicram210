@@ -31,7 +31,7 @@ My passion for programming drives me to constantly learn and improve. I approach
 
 ---
 
-<picture height="200">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
@@ -40,7 +40,7 @@ My passion for programming drives me to constantly learn and improve. I approach
     srcset="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true" height="200"/>
 </picture>
 
 <a href="https://github.com/vicram210">
