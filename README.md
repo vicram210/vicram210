@@ -31,6 +31,18 @@ My passion for programming drives me to constantly learn and improve. I approach
 
 ---
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true" />
+</picture>
+
 <a href="https://github.com/vicram210">
   <img align="center" src="https://letstrys-vicram210.vercel.app/api/?username=vicram210&show_icons=true&theme=github_dark" height="200"/>
 </a>
