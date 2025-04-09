@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=shadow_red)
 
 ## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=shadow_red)](https://github.com/vicram210/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=shadow_red)
