@@ -29,8 +29,7 @@ My passion for programming drives me to constantly learn and improve. I approach
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark)
+---
 
-## ⌨️ Languages 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=github_dark)
