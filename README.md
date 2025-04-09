@@ -31,9 +31,9 @@ My passion for programming drives me to constantly learn and improve. I approach
 
 ---
 
-<picture>
+<picture height="200">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
