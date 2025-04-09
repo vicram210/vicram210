@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
+
+> "I'm here to put on a show".
+
+I'm in love with communication and technology. 
+  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. Currently I'm finishing my Computer Science Degree at University of Cadiz. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicram210&label=Profile%20views&color=0e75b6&style=flat" alt="vicram210" /> </p>
 
