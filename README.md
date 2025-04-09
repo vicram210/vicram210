@@ -1,4 +1,6 @@
 ## Hi! I'm vicram210 🦆
+![Banner01](https://github.com/user-attachments/assets/1e52cbda-8d5a-4581-bfdc-1d99f9297cd7)
+
 ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![profile count](https://komarev.com/ghpvc/?username=vicram210&color=red)
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/vicram210?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)
@@ -32,5 +34,3 @@ My passion for programming drives me to constantly learn and improve. I approach
 
 ## ⌨️ Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=github_dark)
-
-![Banner01](https://github.com/user-attachments/assets/1e52cbda-8d5a-4581-bfdc-1d99f9297cd7)
