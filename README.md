@@ -1,27 +1,13 @@
 ## Hi! I'm vicram210 🦆
+![profile count](https://komarev.com/ghpvc/?username=vicram210&color=red)
 
-<!--
-**vicram210/vicram210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center"> I'm a Computer Science Student 💻, and a Speaker specialized in Tech 🎙️! </h2>
+<h2 align="center"> I'm a Web Application Development student 💻</h2>
 
 > "I'm here to put on a show".
 
-I’m a Web Application Development student, and my passion for programming drives me to constantly learn and improve. I approach every challenge with dedication and enthusiasm, eager to gain new knowledge and master new skills. Programming is not just an interest it's my path to excellence in this exciting field.
+My passion for programming drives me to constantly learn and improve. I approach every challenge with dedication and enthusiasm, eager to gain new knowledge and master new skills. Programming is not just an interest it's my path to excellence in this exciting field.
 
-![profile count](https://komarev.com/ghpvc/?username=vicram210&color=red);
 ## 📋 Current Goals
 - [ ] Learn React. 
 - [ ] Learn Node.js. 
