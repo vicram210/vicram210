@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 
 I’m a Web Application Development student, and my passion for programming drives me to constantly learn and improve. I approach every challenge with dedication and enthusiasm, eager to gain new knowledge and master new skills. Programming is not just an interest it's my path to excellence in this exciting field.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicram210&label=Profile%20views&color=0e75b6&style=flat" alt="vicram210" /> </p>
+![profile count](https://komarev.com/ghpvc/?username=vicram210&color=red);
+## 📋 Current Goals
+- [ ] Learn React. 
+- [ ] Learn Node.js. 
+- [ ] Learn Angular. 
+- [ ] Finish my portfolio.
 
 ## 💼 Technical Skills 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
