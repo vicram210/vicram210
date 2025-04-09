@@ -36,5 +36,5 @@ My passion for programming drives me to constantly learn and improve. I approach
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/vicram210/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&theme=github_dark&card_width=520" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&theme=github_dark&card_width=400" />
 </a>
