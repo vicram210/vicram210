@@ -30,9 +30,7 @@ My passion for programming drives me to constantly learn and improve. I approach
 
 
 ## 📈 GitHub Stats 
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark)
-</div>
 
 ## ⌨️ Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=github_dark)
