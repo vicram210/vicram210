@@ -42,14 +42,4 @@ My passion for programming drives me to constantly learn and improve. I approach
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true" height="200"/>
 </picture>
-
-<a href="https://github.com/vicram210">
-  <img align="center" src="https://letstrys-vicram210.vercel.app/api/?username=vicram210&show_icons=true&theme=github_dark" height="200"/>
-</a>
-
-<a href="https://github.com/vicram210">
-  <img align="center" src="https://letstrys-vicram210.vercel.app/api/top-langs/?username=vicram210&theme=github_dark"  height="200"/>
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=github_dark)
