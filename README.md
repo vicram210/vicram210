@@ -44,3 +44,11 @@ My passion for programming drives me to constantly learn and improve. I approach
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&layout=compact&theme=github_dark)
+
+
+<a href="https://github.com/vicram210/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=vicram210](https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true)" />
+</a>
+<a href="https://github.com/vicram210/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicram210&layout=compact&langs_count=8&card_width=320" />
+</a>
