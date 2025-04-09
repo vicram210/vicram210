@@ -1,6 +1,7 @@
 ## Hi! I'm vicram210 🦆
 ![profile count](https://komarev.com/ghpvc/?username=vicram210&color=red)
-
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)
+![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 <h2 align="center"> I'm a Web Application Development student 💻</h2>
 
