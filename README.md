@@ -28,12 +28,3 @@ My passion for programming drives me to constantly learn and improve. I approach
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vicram210&show_icons=true&theme=github_dark" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicram210&theme=github_dark&card_width=500" />
-</a>
